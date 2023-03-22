@@ -1,0 +1,7 @@
+drivers/
+bin/
+Debug/
+*.o
+*.dll
+*.elf
+*.hex
